@@ -12,3 +12,7 @@ were dropped. No synthetic text was added to this split.
 ## Contents
 
 - `data/part-0001.parquet` — normalized document text and source metadata.
+
+**License**
+
+The license for this dataset is Open Data Commons Attribution License.
