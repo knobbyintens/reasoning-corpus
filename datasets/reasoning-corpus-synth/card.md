@@ -12,3 +12,9 @@ copied into this split.
 ## Contents
 
 - `data/part-0001.parquet` — question, generated rationale, final answer.
+
+**License**
+
+The license for this dataset is Gemma Terms of Use.
+
+Commercial redistribution is not permitted without legal approval.
